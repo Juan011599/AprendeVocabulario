@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>English Trainer — Verb Master</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="app" class="app">
+    <!-- HEADER -->
+    <header class="header">
+      <h1>English Trainer · Verb Master</h1>
+      <div id="userSummary" class="user-summary"></div>
+    </header>
+
+    <!-- MAIN UI -->
+    <main class="main">
+      <!-- Start / Setup -->
+      <section id="setup" class="card">
+        <h2>Bienvenido — configura tu sesión</h2>
+        <form id="setupForm" class="form">
+          <label>
+            Tu nombre
+            <input type="text" id="userName" placeholder="Ej: Juan" required />
+          </label>
+
+          <label>
+            Tu nivel
+            <select id="userLevel">
+              <option value="A1">Principiante (A1-A2)</option>
+              <option value="B1">Intermedio (B1)</option>
+              <option value="B2">Avanzado (B2-C1)</option>
+            </select>
+          </label>
+
+          <label class="inline">
+            Tiempo verbal
+            <div class="segmented">
+              <button type="button" class="seg-btn active" data-tense="present">Presente</button>
+              <button type="button" class="seg-btn" data-tense="past">Pasado</button>
+              <button type="button" class="seg-btn" data-tense="future">Futuro</button>
+            </div>
+            <input type="hidden" id="selectedTense" value="present" />
+          </label>
+
+          <label>
+            ¿Cuántos verbos deseas aprender hoy?
+            <input type="number" id="sessionCount" min="5" max="100" value="10" />
+          </label>
+
+          <div class="actions">
+            <button id="startBtn" class="primary">Comenzar sesión</button>
+            <button id="continueBtn" type="button" class="ghost">Continuar sesión anterior</button>
+          </div>
+        </form>
+
+        <div class="notes">
+          <small>Tu progreso se guarda localmente en este navegador.</small>
+        </div>
+      </section>
+
+      <!-- Learning Card -->
+      <section id="learning" class="card hidden">
+        <div class="learning-head">
+          <h2 id="verbIndex">Verbo 1 / 10</h2>
+          <div class="progress">
+            <div id="progressBar" class="progress-bar"><div id="progressFill"></div></div>
+          </div>
+        </div>
+
+        <div class="verb-card">
+          <div class="verb-main">
+            <div class="verb-forms">
+              <div class="big-verb" id="verbBase">go</div>
+              <div class="forms-row">
+                <span><strong>Past:</strong> <span id="verbPast">went</span></span>
+                <span><strong>Participle:</strong> <span id="verbPart">gone</span></span>
+              </div>
+              <div class="translation" id="verbTranslation">ir</div>
+            </div>
+
+            <div class="example">
+              <div class="example-level">Ejemplo (<span id="exampleLevel">A1</span>)</div>
+              <div id="verbExample" class="example-text">I go to school every day.</div>
+              <div class="example-actions">
+                <button id="playPron" class="btn">🔊 Pronunciación</button>
+                <button id="autoPron" class="btn ghost">Auto pronunciar</button>
+                <label title="SpeechRecognition (experimental)">
+                  <input id="enableSpeechRec" type="checkbox" /> Practica oral
+                </label>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="learning-actions">
+          <button id="learnedBtn" class="success">Ya lo aprendí ✅</button>
+          <button id="skipBtn" class="ghost">Siguiente verbo ➜</button>
+        </div>
+
+        <div class="small-actions">
+          <button id="toReviewBtn" class="ghost">Ir a Repaso</button>
+          <button id="toGameBtn" class="ghost">Jugar</button>
+          <button id="endSessionBtn" class="danger">Terminar sesión</button>
+        </div>
+      </section>
+
+      <!-- Review Section -->
+      <section id="review" class="card hidden">
+        <h2>Repaso</h2>
+        <div class="review-controls">
+          <label>
+            Modo
+            <select id="reviewMode">
+              <option value="en-es">Inglés → Español</option>
+              <option value="es-en">Español → Inglés</option>
+            </select>
+          </label>
+          <button id="startReviewBtn" class="primary">Iniciar repaso</button>
+        </div>
+
+        <div id="reviewArea" class="review-area hidden">
+          <div id="reviewPrompt" class="review-prompt">Prompt</div>
+          <input id="reviewInput" type="text" placeholder="Escribe tu respuesta..." />
+          <div id="reviewFeedback" class="feedback"></div>
+          <div class="review-actions">
+            <button id="reviewNext" class="ghost">Siguiente</button>
+            <button id="reviewBack" class="ghost">Volver</button>
+          </div>
+        </div>
+
+        <div class="small-actions">
+          <button id="backToLearningFromReview" class="ghost">Volver a estudiar</button>
+        </div>
+      </section>
+
+      <!-- Game Section -->
+      <section id="game" class="card hidden">
+        <h2>Juego: Completa la frase</h2>
+        <div id="gameArea">
+          <div id="gameSentence" class="game-sentence"></div>
+          <div id="gameChoices" class="choices"></div>
+          <div id="gameScore" class="score">Puntaje: 0</div>
+        </div>
+        <div class="small-actions">
+          <button id="backToLearningFromGame" class="ghost">Volver</button>
+        </div>
+      </section>
+
+      <!-- Stats / Progress -->
+      <section id="stats" class="card hidden">
+        <h2>Progreso</h2>
+        <div id="statsBody"></div>
+        <div class="small-actions">
+          <button id="resetProgress" class="danger">Borrar progreso</button>
+          <button id="backToSetupFromStats" class="ghost">Volver</button>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <small>Hecho con ♥ — English Trainer · Verb Master</small>
+    </footer>
+  </div>
+
+  <script src="script.js" defer></script>
+</body>
+</html>

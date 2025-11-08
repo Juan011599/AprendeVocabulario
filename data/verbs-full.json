@@ -1,0 +1,2531 @@
+[
+  {
+    "verb": "be",
+    "past": "was/were",
+    "participle": "been",
+    "translation": "ser / estar",
+    "example_A1": "I am happy today.",
+    "example_B1": "She was tired after work.",
+    "example_B2": "They have been friends for many years."
+  },
+  {
+    "verb": "have",
+    "past": "had",
+    "participle": "had",
+    "translation": "tener / haber",
+    "example_A1": "I have a big family.",
+    "example_B1": "He had a good time at the party.",
+    "example_B2": "We have had several meetings this month."
+  },
+  {
+    "verb": "do",
+    "past": "did",
+    "participle": "done",
+    "translation": "hacer",
+    "example_A1": "I do my homework every day.",
+    "example_B1": "She did a great job on the project.",
+    "example_B2": "They have done everything possible to help."
+  },
+  {
+    "verb": "say",
+    "past": "said",
+    "participle": "said",
+    "translation": "decir",
+    "example_A1": "I say hello to my friends.",
+    "example_B1": "He said he would come tomorrow.",
+    "example_B2": "They have said that the company will expand soon."
+  },
+  {
+    "verb": "go",
+    "past": "went",
+    "participle": "gone",
+    "translation": "ir",
+    "example_A1": "I go to school every day.",
+    "example_B1": "She went to the mountains last weekend.",
+    "example_B2": "They have gone to study abroad for two years."
+  },
+  {
+    "verb": "get",
+    "past": "got",
+    "participle": "gotten/got",
+    "translation": "obtener / conseguir",
+    "example_A1": "I get up at seven.",
+    "example_B1": "He got a new phone yesterday.",
+    "example_B2": "She has gotten much better at playing guitar."
+  },
+  {
+    "verb": "make",
+    "past": "made",
+    "participle": "made",
+    "translation": "hacer / fabricar",
+    "example_A1": "I make a sandwich for lunch.",
+    "example_B1": "He made a beautiful cake for her birthday.",
+    "example_B2": "They have made an important decision for the company."
+  },
+  {
+    "verb": "know",
+    "past": "knew",
+    "participle": "known",
+    "translation": "saber / conocer",
+    "example_A1": "I know my teacher well.",
+    "example_B1": "He knew the answer to every question.",
+    "example_B2": "They have known each other since childhood."
+  },
+  {
+    "verb": "think",
+    "past": "thought",
+    "participle": "thought",
+    "translation": "pensar",
+    "example_A1": "I think it’s a good idea.",
+    "example_B1": "She thought the film was interesting.",
+    "example_B2": "We have thought deeply about the problem."
+  },
+  {
+    "verb": "take",
+    "past": "took",
+    "participle": "taken",
+    "translation": "tomar / llevar",
+    "example_A1": "I take the bus to work.",
+    "example_B1": "He took a photo of the sunset.",
+    "example_B2": "She has taken responsibility for the mistake."
+  },
+  {
+    "verb": "see",
+    "past": "saw",
+    "participle": "seen",
+    "translation": "ver",
+    "example_A1": "I see a bird in the tree.",
+    "example_B1": "We saw a great movie last night.",
+    "example_B2": "He has seen many changes in his life."
+  },
+  {
+    "verb": "come",
+    "past": "came",
+    "participle": "come",
+    "translation": "venir",
+    "example_A1": "I come from Colombia.",
+    "example_B1": "She came to visit her parents.",
+    "example_B2": "They have come to an agreement about the contract."
+  },
+  {
+    "verb": "want",
+    "past": "wanted",
+    "participle": "wanted",
+    "translation": "querer / desear",
+    "example_A1": "I want a new phone.",
+    "example_B1": "He wanted to travel abroad last year.",
+    "example_B2": "She has always wanted to become a doctor."
+  },
+  {
+    "verb": "use",
+    "past": "used",
+    "participle": "used",
+    "translation": "usar",
+    "example_A1": "I use my computer every day.",
+    "example_B1": "He used his savings to buy a car.",
+    "example_B2": "They have used technology to improve communication."
+  },
+  {
+    "verb": "find",
+    "past": "found",
+    "participle": "found",
+    "translation": "encontrar",
+    "example_A1": "I find my keys on the table.",
+    "example_B1": "She found a new job last month.",
+    "example_B2": "We have found a solution to the problem."
+  },
+  {
+    "verb": "give",
+    "past": "gave",
+    "participle": "given",
+    "translation": "dar",
+    "example_A1": "I give my friend a gift.",
+    "example_B1": "She gave him a book for his birthday.",
+    "example_B2": "They have given support to the local community."
+  },
+  {
+    "verb": "tell",
+    "past": "told",
+    "participle": "told",
+    "translation": "contar / decir",
+    "example_A1": "I tell my mom I love her.",
+    "example_B1": "He told me about his trip.",
+    "example_B2": "She has told many stories about her adventures."
+  },
+  {
+    "verb": "work",
+    "past": "worked",
+    "participle": "worked",
+    "translation": "trabajar",
+    "example_A1": "I work in a restaurant.",
+    "example_B1": "She worked in Paris last year.",
+    "example_B2": "They have worked together for five years."
+  },
+  {
+    "verb": "call",
+    "past": "called",
+    "participle": "called",
+    "translation": "llamar",
+    "example_A1": "I call my friend every evening.",
+    "example_B1": "He called his parents after arriving home.",
+    "example_B2": "We have called several clients today."
+  },
+  {
+    "verb": "try",
+    "past": "tried",
+    "participle": "tried",
+    "translation": "intentar / probar",
+    "example_A1": "I try to eat healthy food.",
+    "example_B1": "He tried to fix the computer.",
+    "example_B2": "They have tried many times to contact you."
+  },
+  {
+    "verb": "ask",
+    "past": "asked",
+    "participle": "asked",
+    "translation": "preguntar / pedir",
+    "example_A1": "I ask my teacher a question.",
+    "example_B1": "He asked for help with his homework.",
+    "example_B2": "She has asked to join the new project."
+  },
+  {
+    "verb": "need",
+    "past": "needed",
+    "participle": "needed",
+    "translation": "necesitar",
+    "example_A1": "I need a pen.",
+    "example_B1": "He needed money for the trip.",
+    "example_B2": "They have needed extra staff recently."
+  },
+  {
+    "verb": "feel",
+    "past": "felt",
+    "participle": "felt",
+    "translation": "sentir",
+    "example_A1": "I feel happy today.",
+    "example_B1": "She felt nervous before the exam.",
+    "example_B2": "He has felt lonely since moving away."
+  },
+  {
+    "verb": "become",
+    "past": "became",
+    "participle": "become",
+    "translation": "convertirse",
+    "example_A1": "I want to become a teacher.",
+    "example_B1": "He became famous after the movie.",
+    "example_B2": "She has become more confident recently."
+  },
+  {
+    "verb": "leave",
+    "past": "left",
+    "participle": "left",
+    "translation": "salir / dejar",
+    "example_A1": "I leave home at 8 a.m.",
+    "example_B1": "He left his bag at school.",
+    "example_B2": "They have left the company after ten years."
+  },
+  {
+    "verb": "put",
+    "past": "put",
+    "participle": "put",
+    "translation": "poner",
+    "example_A1": "I put my book on the desk.",
+    "example_B1": "She put the groceries in the fridge.",
+    "example_B2": "He has put a lot of effort into this project."
+  },
+  {
+    "verb": "mean",
+    "past": "meant",
+    "participle": "meant",
+    "translation": "significar / querer decir",
+    "example_A1": "What does this word mean?",
+    "example_B1": "He meant to call you yesterday.",
+    "example_B2": "This has meant a big change in our lives."
+  },
+  {
+    "verb": "keep",
+    "past": "kept",
+    "participle": "kept",
+    "translation": "mantener / guardar",
+    "example_A1": "I keep my room clean.",
+    "example_B1": "He kept his promise to his friend.",
+    "example_B2": "They have kept in touch over the years."
+  },
+  {
+    "verb": "let",
+    "past": "let",
+    "participle": "let",
+    "translation": "permitir / dejar",
+    "example_A1": "My mom lets me play outside.",
+    "example_B1": "He let me borrow his car.",
+    "example_B2": "She has let her team make their own decisions."
+  },
+  {
+    "verb": "begin",
+    "past": "began",
+    "participle": "begun",
+    "translation": "empezar / comenzar",
+    "example_A1": "Classes begin at nine o’clock.",
+    "example_B1": "He began to study French last year.",
+    "example_B2": "They have begun a new project on climate change."
+  },
+  {
+    "verb": "seem",
+    "past": "seemed",
+    "participle": "seemed",
+    "translation": "parecer",
+    "example_A1": "It seems easy to do.",
+    "example_B1": "He seemed angry after the meeting.",
+    "example_B2": "It has seemed like a good opportunity so far."
+  },
+  {
+    "verb": "help",
+    "past": "helped",
+    "participle": "helped",
+    "translation": "ayudar",
+    "example_A1": "I help my mom at home.",
+    "example_B1": "He helped his friend move last weekend.",
+    "example_B2": "They have helped many people in need."
+  },
+  {
+    "verb": "show",
+    "past": "showed",
+    "participle": "shown",
+    "translation": "mostrar",
+    "example_A1": "I show my homework to the teacher.",
+    "example_B1": "He showed us his holiday photos.",
+    "example_B2": "She has shown great improvement in her work."
+  },
+  {
+    "verb": "hear",
+    "past": "heard",
+    "participle": "heard",
+    "translation": "oír / escuchar",
+    "example_A1": "I hear music from my room.",
+    "example_B1": "She heard the news on the radio.",
+    "example_B2": "He has heard many different opinions on the topic."
+  },
+  {
+    "verb": "play",
+    "past": "played",
+    "participle": "played",
+    "translation": "jugar / tocar (instrumento)",
+    "example_A1": "I play football every weekend.",
+    "example_B1": "He played the guitar at the concert.",
+    "example_B2": "She has played in several professional matches."
+  },
+  {
+    "verb": "run",
+    "past": "ran",
+    "participle": "run",
+    "translation": "correr / dirigir",
+    "example_A1": "I run every morning.",
+    "example_B1": "He ran five kilometers yesterday.",
+    "example_B2": "They have run a small business for years."
+  },
+  {
+    "verb": "move",
+    "past": "moved",
+    "participle": "moved",
+    "translation": "mover / mudarse",
+    "example_A1": "I move the chair closer.",
+    "example_B1": "She moved to Paris last year.",
+    "example_B2": "They have moved their office to a new building."
+  },
+  {
+    "verb": "live",
+    "past": "lived",
+    "participle": "lived",
+    "translation": "vivir",
+    "example_A1": "I live in France.",
+    "example_B1": "He lived in Japan for three years.",
+    "example_B2": "She has lived a very interesting life."
+  },
+  {
+    "verb": "believe",
+    "past": "believed",
+    "participle": "believed",
+    "translation": "creer",
+    "example_A1": "I believe in love.",
+    "example_B1": "He believed her story.",
+    "example_B2": "They have always believed in hard work."
+  },
+  {
+    "verb": "bring",
+    "past": "brought",
+    "participle": "brought",
+    "translation": "traer",
+    "example_A1": "I bring my lunch to school.",
+    "example_B1": "He brought a gift for his friend.",
+    "example_B2": "They have brought new ideas to the company."
+  },
+  {
+    "verb": "happen",
+    "past": "happened",
+    "participle": "happened",
+    "translation": "suceder / pasar",
+    "example_A1": "Accidents happen sometimes.",
+    "example_B1": "It happened while I was driving.",
+    "example_B2": "Many changes have happened over the last decade."
+  },
+  {
+    "verb": "write",
+    "past": "wrote",
+    "participle": "written",
+    "translation": "escribir",
+    "example_A1": "I write a letter to my friend.",
+    "example_B1": "He wrote a book last year.",
+    "example_B2": "She has written many articles for magazines."
+  },
+  {
+    "verb": "sit",
+    "past": "sat",
+    "participle": "sat",
+    "translation": "sentarse",
+    "example_A1": "I sit on the chair.",
+    "example_B1": "He sat near the window.",
+    "example_B2": "They have sat together many times."
+  },
+  {
+    "verb": "stand",
+    "past": "stood",
+    "participle": "stood",
+    "translation": "estar de pie / soportar",
+    "example_A1": "I stand in line at the store.",
+    "example_B1": "He stood by the door waiting.",
+    "example_B2": "She has stood strong during hard times."
+  },
+  {
+    "verb": "lose",
+    "past": "lost",
+    "participle": "lost",
+    "translation": "perder",
+    "example_A1": "I lose my keys often.",
+    "example_B1": "He lost his wallet on the bus.",
+    "example_B2": "They have lost everything in the fire."
+  },
+  {
+    "verb": "pay",
+    "past": "paid",
+    "participle": "paid",
+    "translation": "pagar",
+    "example_A1": "I pay for my lunch.",
+    "example_B1": "He paid the bill yesterday.",
+    "example_B2": "She has paid all her debts on time."
+  },
+  {
+    "verb": "meet",
+    "past": "met",
+    "participle": "met",
+    "translation": "conocer / reunirse",
+    "example_A1": "I meet my friends after school.",
+    "example_B1": "He met his wife in college.",
+    "example_B2": "They have met several times before."
+  },
+  {
+    "verb": "include",
+    "past": "included",
+    "participle": "included",
+    "translation": "incluir",
+    "example_A1": "My lunch includes a sandwich.",
+    "example_B1": "The price included taxes.",
+    "example_B2": "The report has included all the recent data."
+  },
+  {
+    "verb": "continue",
+    "past": "continued",
+    "participle": "continued",
+    "translation": "continuar / seguir",
+    "example_A1": "I continue my studies.",
+    "example_B1": "He continued working after dinner.",
+    "example_B2": "They have continued to grow despite the challenges."
+  },
+  {
+    "verb": "set",
+    "past": "set",
+    "participle": "set",
+    "translation": "colocar / fijar",
+    "example_A1": "I set the table for dinner.",
+    "example_B1": "He set an alarm for 7 a.m.",
+    "example_B2": "They have set new goals for next year."
+  },
+
+  {
+    "verb": "learn",
+    "past": "learned/learnt",
+    "participle": "learned/learnt",
+    "translation": "aprender",
+    "example_A1": "I learn English at school.",
+    "example_B1": "He learned how to drive last year.",
+    "example_B2": "She has learned many valuable lessons from experience."
+  },
+  {
+    "verb": "change",
+    "past": "changed",
+    "participle": "changed",
+    "translation": "cambiar",
+    "example_A1": "I change my clothes after school.",
+    "example_B1": "He changed his phone number last month.",
+    "example_B2": "They have changed their opinion about the project."
+  },
+  {
+    "verb": "lead",
+    "past": "led",
+    "participle": "led",
+    "translation": "liderar / guiar",
+    "example_A1": "I lead my team in the game.",
+    "example_B1": "He led the group through the forest.",
+    "example_B2": "She has led many successful projects."
+  },
+  {
+    "verb": "understand",
+    "past": "understood",
+    "participle": "understood",
+    "translation": "entender / comprender",
+    "example_A1": "I understand my teacher.",
+    "example_B1": "He understood the instructions clearly.",
+    "example_B2": "They have understood the importance of teamwork."
+  },
+  {
+    "verb": "watch",
+    "past": "watched",
+    "participle": "watched",
+    "translation": "ver / observar",
+    "example_A1": "I watch TV every night.",
+    "example_B1": "He watched the game on his phone.",
+    "example_B2": "They have watched the company grow over time."
+  },
+  {
+    "verb": "follow",
+    "past": "followed",
+    "participle": "followed",
+    "translation": "seguir",
+    "example_A1": "I follow my teacher’s instructions.",
+    "example_B1": "He followed the map to find the house.",
+    "example_B2": "She has followed her dreams to become a doctor."
+  },
+  {
+    "verb": "stop",
+    "past": "stopped",
+    "participle": "stopped",
+    "translation": "detener / parar",
+    "example_A1": "I stop when the light is red.",
+    "example_B1": "He stopped smoking last year.",
+    "example_B2": "They have stopped working on that project."
+  },
+  {
+    "verb": "create",
+    "past": "created",
+    "participle": "created",
+    "translation": "crear",
+    "example_A1": "I create drawings for fun.",
+    "example_B1": "He created a new app for students.",
+    "example_B2": "They have created a successful startup together."
+  },
+  {
+    "verb": "speak",
+    "past": "spoke",
+    "participle": "spoken",
+    "translation": "hablar",
+    "example_A1": "I speak English and Spanish.",
+    "example_B1": "He spoke to the manager about the issue.",
+    "example_B2": "She has spoken at many international conferences."
+  },
+  {
+    "verb": "read",
+    "past": "read",
+    "participle": "read",
+    "translation": "leer",
+    "example_A1": "I read books before bed.",
+    "example_B1": "He read the letter carefully.",
+    "example_B2": "They have read all the instructions thoroughly."
+  },
+  {
+    "verb": "spend",
+    "past": "spent",
+    "participle": "spent",
+    "translation": "gastar / pasar (tiempo)",
+    "example_A1": "I spend time with my family.",
+    "example_B1": "He spent too much money on clothes.",
+    "example_B2": "She has spent many hours studying for the exam."
+  },
+  {
+    "verb": "grow",
+    "past": "grew",
+    "participle": "grown",
+    "translation": "crecer / cultivar",
+    "example_A1": "I grow flowers in my garden.",
+    "example_B1": "He grew up in a small town.",
+    "example_B2": "They have grown their company into a global brand."
+  },
+  {
+    "verb": "open",
+    "past": "opened",
+    "participle": "opened",
+    "translation": "abrir",
+    "example_A1": "I open the window.",
+    "example_B1": "He opened the store early this morning.",
+    "example_B2": "They have opened new branches across the country."
+  },
+  {
+    "verb": "walk",
+    "past": "walked",
+    "participle": "walked",
+    "translation": "caminar",
+    "example_A1": "I walk to school every day.",
+    "example_B1": "He walked home after the movie.",
+    "example_B2": "They have walked long distances during their trip."
+  },
+  {
+    "verb": "win",
+    "past": "won",
+    "participle": "won",
+    "translation": "ganar",
+    "example_A1": "I win the game.",
+    "example_B1": "He won a medal in the competition.",
+    "example_B2": "She has won several international awards."
+  },
+  {
+    "verb": "offer",
+    "past": "offered",
+    "participle": "offered",
+    "translation": "ofrecer",
+    "example_A1": "I offer help to my friends.",
+    "example_B1": "He offered her a job in his company.",
+    "example_B2": "They have offered new services to their clients."
+  },
+  {
+    "verb": "remember",
+    "past": "remembered",
+    "participle": "remembered",
+    "translation": "recordar",
+    "example_A1": "I remember my first day of school.",
+    "example_B1": "He remembered to bring his keys.",
+    "example_B2": "They have remembered everything they learned."
+  },
+  {
+    "verb": "love",
+    "past": "loved",
+    "participle": "loved",
+    "translation": "amar / gustar",
+    "example_A1": "I love pizza.",
+    "example_B1": "He loved the trip to Italy.",
+    "example_B2": "She has always loved animals."
+  },
+  {
+    "verb": "consider",
+    "past": "considered",
+    "participle": "considered",
+    "translation": "considerar / tener en cuenta",
+    "example_A1": "I consider him my friend.",
+    "example_B1": "He considered moving to another city.",
+    "example_B2": "They have considered all possible solutions."
+  },
+  {
+    "verb": "appear",
+    "past": "appeared",
+    "participle": "appeared",
+    "translation": "aparecer / parecer",
+    "example_A1": "The sun appears in the morning.",
+    "example_B1": "He appeared calm during the meeting.",
+    "example_B2": "They have appeared on several TV shows."
+  },
+  {
+    "verb": "buy",
+    "past": "bought",
+    "participle": "bought",
+    "translation": "comprar",
+    "example_A1": "I buy fruits at the market.",
+    "example_B1": "He bought a new jacket yesterday.",
+    "example_B2": "They have bought a house near the beach."
+  },
+  {
+    "verb": "wait",
+    "past": "waited",
+    "participle": "waited",
+    "translation": "esperar",
+    "example_A1": "I wait for the bus every morning.",
+    "example_B1": "He waited for his friend outside the station.",
+    "example_B2": "She has waited patiently for an answer."
+  },
+  {
+    "verb": "serve",
+    "past": "served",
+    "participle": "served",
+    "translation": "servir / atender",
+    "example_A1": "I serve food at the restaurant.",
+    "example_B1": "He served in the army for five years.",
+    "example_B2": "They have served thousands of customers."
+  },
+  {
+    "verb": "die",
+    "past": "died",
+    "participle": "died",
+    "translation": "morir",
+    "example_A1": "Flowers die without water.",
+    "example_B1": "His grandfather died last year.",
+    "example_B2": "Many species have died due to pollution."
+  },
+  {
+    "verb": "send",
+    "past": "sent",
+    "participle": "sent",
+    "translation": "enviar",
+    "example_A1": "I send a message to my friend.",
+    "example_B1": "He sent an email yesterday.",
+    "example_B2": "They have sent the package already."
+  },
+  {
+    "verb": "expect",
+    "past": "expected",
+    "participle": "expected",
+    "translation": "esperar / suponer",
+    "example_A1": "I expect good news.",
+    "example_B1": "He expected her to call back.",
+    "example_B2": "They have expected better results from the test."
+  },
+  {
+    "verb": "build",
+    "past": "built",
+    "participle": "built",
+    "translation": "construir",
+    "example_A1": "I build a sandcastle on the beach.",
+    "example_B1": "He built his own house.",
+    "example_B2": "They have built a strong relationship over the years."
+  },
+  {
+    "verb": "stay",
+    "past": "stayed",
+    "participle": "stayed",
+    "translation": "quedarse / permanecer",
+    "example_A1": "I stay at home on weekends.",
+    "example_B1": "He stayed in London for two weeks.",
+    "example_B2": "They have stayed close friends since college."
+  },
+  {
+    "verb": "fall",
+    "past": "fell",
+    "participle": "fallen",
+    "translation": "caer",
+    "example_A1": "I fall down sometimes.",
+    "example_B1": "He fell from the bike.",
+    "example_B2": "Leaves have fallen from the trees."
+  },
+  {
+    "verb": "cut",
+    "past": "cut",
+    "participle": "cut",
+    "translation": "cortar",
+    "example_A1": "I cut paper with scissors.",
+    "example_B1": "He cut his hair short.",
+    "example_B2": "They have cut costs to save money."
+  },
+  {
+    "verb": "reach",
+    "past": "reached",
+    "participle": "reached",
+    "translation": "alcanzar / llegar",
+    "example_A1": "I reach the top shelf.",
+    "example_B1": "He reached the mountain peak.",
+    "example_B2": "They have reached an agreement."
+  },
+  {
+    "verb": "kill",
+    "past": "killed",
+    "participle": "killed",
+    "translation": "matar",
+    "example_A1": "Spiders kill insects.",
+    "example_B1": "He killed a mosquito.",
+    "example_B2": "Pollution has killed many fish in the river."
+  },
+  {
+    "verb": "remain",
+    "past": "remained",
+    "participle": "remained",
+    "translation": "permanecer / quedarse",
+    "example_A1": "I remain calm.",
+    "example_B1": "He remained silent during the meeting.",
+    "example_B2": "They have remained loyal to their values."
+  },
+  {
+    "verb": "suggest",
+    "past": "suggested",
+    "participle": "suggested",
+    "translation": "sugerir",
+    "example_A1": "I suggest pizza for dinner.",
+    "example_B1": "He suggested visiting a museum.",
+    "example_B2": "They have suggested several improvements."
+  },
+  {
+    "verb": "raise",
+    "past": "raised",
+    "participle": "raised",
+    "translation": "levantar / aumentar / criar",
+    "example_A1": "I raise my hand to ask a question.",
+    "example_B1": "He raised money for charity.",
+    "example_B2": "She has raised her children well."
+  },
+  {
+    "verb": "pass",
+    "past": "passed",
+    "participle": "passed",
+    "translation": "pasar / aprobar",
+    "example_A1": "I pass the salt.",
+    "example_B1": "He passed the exam easily.",
+    "example_B2": "Time has passed quickly this year."
+  },
+  {
+    "verb": "sell",
+    "past": "sold",
+    "participle": "sold",
+    "translation": "vender",
+    "example_A1": "I sell lemonade.",
+    "example_B1": "He sold his car last week.",
+    "example_B2": "They have sold all their old furniture."
+  },
+  {
+    "verb": "require",
+    "past": "required",
+    "participle": "required",
+    "translation": "requerir / necesitar",
+    "example_A1": "This job requires experience.",
+    "example_B1": "He required help with his homework.",
+    "example_B2": "The process has required a lot of time."
+  },
+  {
+    "verb": "decide",
+    "past": "decided",
+    "participle": "decided",
+    "translation": "decidir",
+    "example_A1": "I decide what to wear.",
+    "example_B1": "He decided to move abroad.",
+    "example_B2": "They have decided to invest in the project."
+  },
+  {
+    "verb": "return",
+    "past": "returned",
+    "participle": "returned",
+    "translation": "volver / devolver",
+    "example_A1": "I return home after work.",
+    "example_B1": "He returned the book to the library.",
+    "example_B2": "They have returned from their trip to Japan."
+  },
+  {
+    "verb": "explain",
+    "past": "explained",
+    "participle": "explained",
+    "translation": "explicar",
+    "example_A1": "I explain the rules to my friend.",
+    "example_B1": "He explained the situation clearly.",
+    "example_B2": "She has explained everything in detail."
+  },
+  {
+    "verb": "hope",
+    "past": "hoped",
+    "participle": "hoped",
+    "translation": "esperar / tener esperanza",
+    "example_A1": "I hope it doesn’t rain.",
+    "example_B1": "He hoped to get the job.",
+    "example_B2": "They have always hoped for peace."
+  },
+  {
+    "verb": "develop",
+    "past": "developed",
+    "participle": "developed",
+    "translation": "desarrollar",
+    "example_A1": "I develop photos.",
+    "example_B1": "He developed a new app.",
+    "example_B2": "They have developed new methods of learning."
+  },
+  {
+    "verb": "carry",
+    "past": "carried",
+    "participle": "carried",
+    "translation": "llevar / cargar",
+    "example_A1": "I carry my bag to school.",
+    "example_B1": "He carried the boxes upstairs.",
+    "example_B2": "They have carried out important research."
+  },
+  {
+    "verb": "break",
+    "past": "broke",
+    "participle": "broken",
+    "translation": "romper",
+    "example_A1": "I break a glass by accident.",
+    "example_B1": "He broke his phone yesterday.",
+    "example_B2": "She has broken several records this year."
+  },
+  {
+    "verb": "enjoy",
+    "past": "enjoyed",
+    "participle": "enjoyed",
+    "translation": "disfrutar",
+    "example_A1": "I enjoy music.",
+    "example_B1": "She enjoyed her trip to Spain.",
+    "example_B2": "They have always enjoyed working together."
+  },
+  {
+    "verb": "explain",
+    "past": "explained",
+    "participle": "explained",
+    "translation": "explicar",
+    "example_A1": "Can you explain this to me?",
+    "example_B1": "He explained the situation clearly.",
+    "example_B2": "She has explained how the system works."
+  },
+  {
+    "verb": "fall",
+    "past": "fell",
+    "participle": "fallen",
+    "translation": "caer",
+    "example_A1": "Be careful, you might fall.",
+    "example_B1": "He fell off his bike yesterday.",
+    "example_B2": "The leaves have fallen from the trees."
+  },
+  {
+    "verb": "feed",
+    "past": "fed",
+    "participle": "fed",
+    "translation": "alimentar",
+    "example_A1": "I feed my dog every morning.",
+    "example_B1": "She fed the baby before leaving.",
+    "example_B2": "They have fed the animals at the shelter."
+  },
+  {
+    "verb": "feel",
+    "past": "felt",
+    "participle": "felt",
+    "translation": "sentir",
+    "example_A1": "I feel happy today.",
+    "example_B1": "He felt tired after work.",
+    "example_B2": "I have never felt so motivated."
+  },
+  {
+    "verb": "fight",
+    "past": "fought",
+    "participle": "fought",
+    "translation": "pelear",
+    "example_A1": "The kids fight sometimes.",
+    "example_B1": "They fought in the war.",
+    "example_B2": "We have fought for our rights for years."
+  },
+  {
+    "verb": "find",
+    "past": "found",
+    "participle": "found",
+    "translation": "encontrar",
+    "example_A1": "I can’t find my keys.",
+    "example_B1": "She found a new job last month.",
+    "example_B2": "We have found the solution to the problem."
+  },
+  {
+    "verb": "fit",
+    "past": "fit",
+    "participle": "fit",
+    "translation": "ajustar / caber",
+    "example_A1": "These shoes fit me well.",
+    "example_B1": "The dress fit her perfectly.",
+    "example_B2": "They have fit all the parts together correctly."
+  },
+  {
+    "verb": "fly",
+    "past": "flew",
+    "participle": "flown",
+    "translation": "volar",
+    "example_A1": "Birds can fly.",
+    "example_B1": "He flew to Paris last week.",
+    "example_B2": "We have flown over the mountains before."
+  },
+  {
+    "verb": "forget",
+    "past": "forgot",
+    "participle": "forgotten",
+    "translation": "olvidar",
+    "example_A1": "Don’t forget your bag.",
+    "example_B1": "I forgot my keys at home.",
+    "example_B2": "She has forgotten everything she studied."
+  },
+  {
+    "verb": "forgive",
+    "past": "forgave",
+    "participle": "forgiven",
+    "translation": "perdonar",
+    "example_A1": "I forgive you.",
+    "example_B1": "He forgave his friend for the mistake.",
+    "example_B2": "They have forgiven each other after many years."
+  },
+  {
+    "verb": "freeze",
+    "past": "froze",
+    "participle": "frozen",
+    "translation": "congelar",
+    "example_A1": "Water freezes at zero degrees.",
+    "example_B1": "The lake froze last winter.",
+    "example_B2": "The food has been frozen since yesterday."
+  },
+  {
+    "verb": "get",
+    "past": "got",
+    "participle": "gotten",
+    "translation": "obtener / conseguir",
+    "example_A1": "I get up at 7 a.m.",
+    "example_B1": "She got a new phone.",
+    "example_B2": "He has gotten better at speaking English."
+  },
+  {
+    "verb": "give",
+    "past": "gave",
+    "participle": "given",
+    "translation": "dar",
+    "example_A1": "I give my mom a gift.",
+    "example_B1": "She gave me good advice.",
+    "example_B2": "They have given all their effort to the project."
+  },
+  {
+    "verb": "grow",
+    "past": "grew",
+    "participle": "grown",
+    "translation": "crecer / cultivar",
+    "example_A1": "Flowers grow in the garden.",
+    "example_B1": "He grew up in a small town.",
+    "example_B2": "We have grown our own vegetables for years."
+  },
+  {
+    "verb": "hang",
+    "past": "hung",
+    "participle": "hung",
+    "translation": "colgar",
+    "example_A1": "I hang my coat on the hook.",
+    "example_B1": "She hung the picture on the wall.",
+    "example_B2": "They have hung new curtains in the room."
+  },
+  {
+    "verb": "have",
+    "past": "had",
+    "participle": "had",
+    "translation": "tener / haber",
+    "example_A1": "I have a cat.",
+    "example_B1": "She had a lot of homework.",
+    "example_B2": "They have had many opportunities in life."
+  },
+  {
+    "verb": "hear",
+    "past": "heard",
+    "participle": "heard",
+    "translation": "oír / escuchar",
+    "example_A1": "I hear birds outside.",
+    "example_B1": "He heard a strange noise last night.",
+    "example_B2": "We have heard that song before."
+  },
+  {
+    "verb": "hide",
+    "past": "hid",
+    "participle": "hidden",
+    "translation": "esconder",
+    "example_A1": "I hide behind the tree.",
+    "example_B1": "He hid the letter in the drawer.",
+    "example_B2": "They have hidden the treasure for years."
+  },
+  {
+    "verb": "hit",
+    "past": "hit",
+    "participle": "hit",
+    "translation": "golpear",
+    "example_A1": "Don’t hit your brother.",
+    "example_B1": "He hit the ball very hard.",
+    "example_B2": "She has hit her goals this year."
+  },
+  {
+    "verb": "hold",
+    "past": "held",
+    "participle": "held",
+    "translation": "sostener / mantener",
+    "example_A1": "Hold my hand, please.",
+    "example_B1": "He held the baby carefully.",
+    "example_B2": "They have held meetings every month."
+  },
+  {
+    "verb": "hurt",
+    "past": "hurt",
+    "participle": "hurt",
+    "translation": "herir / doler",
+    "example_A1": "My leg hurts.",
+    "example_B1": "He hurt his arm playing football.",
+    "example_B2": "She has hurt my feelings many times."
+  },
+  {
+    "verb": "keep",
+    "past": "kept",
+    "participle": "kept",
+    "translation": "mantener / guardar",
+    "example_A1": "I keep my room clean.",
+    "example_B1": "She kept her promise.",
+    "example_B2": "They have kept all the old photos."
+  },
+  {
+    "verb": "know",
+    "past": "knew",
+    "participle": "known",
+    "translation": "saber / conocer",
+    "example_A1": "I know the answer.",
+    "example_B1": "He knew everyone at the party.",
+    "example_B2": "We have known each other for years."
+  },
+  {
+    "verb": "learn",
+    "past": "learned",
+    "participle": "learned",
+    "translation": "aprender",
+    "example_A1": "I learn English every day.",
+    "example_B1": "She learned to cook when she was young.",
+    "example_B2": "He has learned from his mistakes."
+  },
+  {
+    "verb": "leave",
+    "past": "left",
+    "participle": "left",
+    "translation": "salir / dejar",
+    "example_A1": "I leave home at 8 a.m.",
+    "example_B1": "He left his bag on the bus.",
+    "example_B2": "They have left the company recently."
+  },
+  {
+    "verb": "lend",
+    "past": "lent",
+    "participle": "lent",
+    "translation": "prestar",
+    "example_A1": "Can you lend me your pen?",
+    "example_B1": "He lent me some money.",
+    "example_B2": "She has lent her car to her brother."
+  },
+  {
+    "verb": "let",
+    "past": "let",
+    "participle": "let",
+    "translation": "permitir / dejar",
+    "example_A1": "Let me help you.",
+    "example_B1": "He let his friend use his phone.",
+    "example_B2": "They have let us stay here for free."
+  },
+  {
+    "verb": "lie",
+    "past": "lay",
+    "participle": "lain",
+    "translation": "yacer / recostarse",
+    "example_A1": "I lie on the bed.",
+    "example_B1": "He lay down for a nap.",
+    "example_B2": "She has lain there all afternoon."
+  },
+  {
+    "verb": "lose",
+    "past": "lost",
+    "participle": "lost",
+    "translation": "perder",
+    "example_A1": "Don’t lose your wallet.",
+    "example_B1": "He lost his job last month.",
+    "example_B2": "We have lost all our data."
+  },
+  {
+    "verb": "make",
+    "past": "made",
+    "participle": "made",
+    "translation": "hacer / fabricar",
+    "example_A1": "I make breakfast every morning.",
+    "example_B1": "She made a cake for her birthday.",
+    "example_B2": "They have made a big mistake."
+  },
+  {
+    "verb": "mean",
+    "past": "meant",
+    "participle": "meant",
+    "translation": "significar / querer decir",
+    "example_A1": "What does this word mean?",
+    "example_B1": "He meant to call you yesterday.",
+    "example_B2": "I have always meant to tell you the truth."
+  },
+  {
+    "verb": "meet",
+    "past": "met",
+    "participle": "met",
+    "translation": "encontrarse / conocer",
+    "example_A1": "I meet my friends after school.",
+    "example_B1": "She met her boss this morning.",
+    "example_B2": "We have met before, I think."
+  },
+  {
+    "verb": "pay",
+    "past": "paid",
+    "participle": "paid",
+    "translation": "pagar",
+    "example_A1": "I pay for my lunch.",
+    "example_B1": "He paid the bill yesterday.",
+    "example_B2": "They have paid all their debts."
+  },
+  {
+    "verb": "put",
+    "past": "put",
+    "participle": "put",
+    "translation": "poner / colocar",
+    "example_A1": "I put my bag on the chair.",
+    "example_B1": "He put the keys on the table.",
+    "example_B2": "They have put a lot of effort into this project."
+  },
+  {
+    "verb": "read",
+    "past": "read",
+    "participle": "read",
+    "translation": "leer",
+    "example_A1": "I read books every night.",
+    "example_B1": "She read the whole article.",
+    "example_B2": "They have read all the documents."
+  },
+  {
+    "verb": "ride",
+    "past": "rode",
+    "participle": "ridden",
+    "translation": "montar / andar",
+    "example_A1": "I ride my bike to school.",
+    "example_B1": "He rode a horse last weekend.",
+    "example_B2": "We have ridden through the city before."
+  },
+  {
+    "verb": "ring",
+    "past": "rang",
+    "participle": "rung",
+    "translation": "sonar / llamar",
+    "example_A1": "The phone rings every morning.",
+    "example_B1": "He rang the bell twice.",
+    "example_B2": "I have rung the company many times."
+  },
+  {
+    "verb": "run",
+    "past": "ran",
+    "participle": "run",
+    "translation": "correr / dirigir",
+    "example_A1": "I run every morning.",
+    "example_B1": "He ran in a marathon last year.",
+    "example_B2": "They have run this business since 2010."
+  },
+  {
+    "verb": "say",
+    "past": "said",
+    "participle": "said",
+    "translation": "decir",
+    "example_A1": "I say hello to my teacher.",
+    "example_B1": "He said something funny.",
+    "example_B2": "They have said nothing about it."
+  },
+  {
+    "verb": "see",
+    "past": "saw",
+    "participle": "seen",
+    "translation": "ver",
+    "example_A1": "I see a bird in the sky.",
+    "example_B1": "She saw a movie yesterday.",
+    "example_B2": "We have seen that film before."
+  },
+  {
+    "verb": "sell",
+    "past": "sold",
+    "participle": "sold",
+    "translation": "vender",
+    "example_A1": "I sell fruit in the market.",
+    "example_B1": "He sold his old car.",
+    "example_B2": "They have sold their house recently."
+  },
+  {
+    "verb": "send",
+    "past": "sent",
+    "participle": "sent",
+    "translation": "enviar",
+    "example_A1": "I send a letter to my friend.",
+    "example_B1": "She sent an email yesterday.",
+    "example_B2": "We have sent the package already."
+  },
+  {
+    "verb": "shine",
+    "past": "shone",
+    "participle": "shone",
+    "translation": "brillar",
+    "example_A1": "The sun shines today.",
+    "example_B1": "The stars shone brightly last night.",
+    "example_B2": "The light has shone through the window all day."
+  },
+  {
+    "verb": "shoot",
+    "past": "shot",
+    "participle": "shot",
+    "translation": "disparar / lanzar",
+    "example_A1": "He shoots the ball into the goal.",
+    "example_B1": "They shot the film in London.",
+    "example_B2": "The photographer has shot many famous people."
+  },
+  {
+    "verb": "show",
+    "past": "showed",
+    "participle": "shown",
+    "translation": "mostrar",
+    "example_A1": "I show my homework to the teacher.",
+    "example_B1": "She showed me her photos.",
+    "example_B2": "He has shown great improvement."
+  },
+  {
+    "verb": "shut",
+    "past": "shut",
+    "participle": "shut",
+    "translation": "cerrar",
+    "example_A1": "Please shut the door.",
+    "example_B1": "He shut all the windows before leaving.",
+    "example_B2": "They have shut the store for renovation."
+  },
+    {
+        "verb": "sing",
+        "past": "sang",
+        "participle": "sung",
+        "translation": "cantar",
+        "example_A1": "I sing in the shower.",
+        "example_B1": "She sang a beautiful song.",
+        "example_B2": "They have sung together for years."
+    },
+
+  {
+    "verb": "sing",
+    "past": "sang",
+    "participle": "sung",
+    "translation": "cantar",
+    "example_A1": "I sing every morning.",
+    "example_B1": "She sang a beautiful song at the party.",
+    "example_B2": "They have sung together for many years."
+  },
+  {
+    "verb": "sit",
+    "past": "sat",
+    "participle": "sat",
+    "translation": "sentarse",
+    "example_A1": "I sit on the chair.",
+    "example_B1": "He sat by the window.",
+    "example_B2": "She has sat there for hours."
+  },
+  {
+    "verb": "sleep",
+    "past": "slept",
+    "participle": "slept",
+    "translation": "dormir",
+    "example_A1": "I sleep eight hours a day.",
+    "example_B1": "He slept very well last night.",
+    "example_B2": "They have slept in that hotel before."
+  },
+  {
+    "verb": "speak",
+    "past": "spoke",
+    "participle": "spoken",
+    "translation": "hablar",
+    "example_A1": "I speak English.",
+    "example_B1": "She spoke to her boss yesterday.",
+    "example_B2": "He has spoken at many conferences."
+  },
+  {
+    "verb": "spend",
+    "past": "spent",
+    "participle": "spent",
+    "translation": "gastar / pasar (tiempo)",
+    "example_A1": "I spend time with my family.",
+    "example_B1": "He spent all his money on clothes.",
+    "example_B2": "They have spent the weekend at the beach."
+  },
+  {
+    "verb": "stand",
+    "past": "stood",
+    "participle": "stood",
+    "translation": "estar de pie",
+    "example_A1": "I stand near the door.",
+    "example_B1": "He stood in line for hours.",
+    "example_B2": "They have stood together through difficult times."
+  },
+  {
+    "verb": "start",
+    "past": "started",
+    "participle": "started",
+    "translation": "empezar",
+    "example_A1": "We start school at 8 a.m.",
+    "example_B1": "He started learning English last year.",
+    "example_B2": "She has started her own business."
+  },
+  {
+    "verb": "stay",
+    "past": "stayed",
+    "participle": "stayed",
+    "translation": "quedarse / permanecer",
+    "example_A1": "I stay at home today.",
+    "example_B1": "He stayed in Paris for two weeks.",
+    "example_B2": "They have stayed friends since college."
+  },
+  {
+    "verb": "steal",
+    "past": "stole",
+    "participle": "stolen",
+    "translation": "robar",
+    "example_A1": "Don’t steal things.",
+    "example_B1": "Someone stole his bike yesterday.",
+    "example_B2": "They have stolen many ideas from others."
+  },
+  {
+    "verb": "study",
+    "past": "studied",
+    "participle": "studied",
+    "translation": "estudiar",
+    "example_A1": "I study English every day.",
+    "example_B1": "She studied hard for the exam.",
+    "example_B2": "He has studied abroad for two years."
+  },
+  {
+    "verb": "swim",
+    "past": "swam",
+    "participle": "swum",
+    "translation": "nadar",
+    "example_A1": "I swim in the pool.",
+    "example_B1": "He swam across the river.",
+    "example_B2": "They have swum in many lakes."
+  },
+  {
+    "verb": "take",
+    "past": "took",
+    "participle": "taken",
+    "translation": "tomar / llevar",
+    "example_A1": "I take a bus to work.",
+    "example_B1": "She took a picture of the sunset.",
+    "example_B2": "He has taken responsibility for the project."
+  },
+  {
+    "verb": "teach",
+    "past": "taught",
+    "participle": "taught",
+    "translation": "enseñar",
+    "example_A1": "I teach English.",
+    "example_B1": "She taught me how to dance.",
+    "example_B2": "He has taught for over twenty years."
+  },
+  {
+    "verb": "tell",
+    "past": "told",
+    "participle": "told",
+    "translation": "decir / contar",
+    "example_A1": "I tell the truth.",
+    "example_B1": "She told me a secret.",
+    "example_B2": "They have told us everything."
+  },
+  {
+    "verb": "think",
+    "past": "thought",
+    "participle": "thought",
+    "translation": "pensar",
+    "example_A1": "I think it’s a good idea.",
+    "example_B1": "He thought about moving abroad.",
+    "example_B2": "We have thought carefully before deciding."
+  },
+  {
+    "verb": "throw",
+    "past": "threw",
+    "participle": "thrown",
+    "translation": "lanzar / tirar",
+    "example_A1": "I throw the ball.",
+    "example_B1": "He threw the keys on the table.",
+    "example_B2": "They have thrown away all the old papers."
+  },
+  {
+    "verb": "understand",
+    "past": "understood",
+    "participle": "understood",
+    "translation": "entender / comprender",
+    "example_A1": "I understand you.",
+    "example_B1": "He understood the lesson perfectly.",
+    "example_B2": "They have understood the problem clearly."
+  },
+  {
+    "verb": "use",
+    "past": "used",
+    "participle": "used",
+    "translation": "usar",
+    "example_A1": "I use my phone every day.",
+    "example_B1": "She used the computer for her work.",
+    "example_B2": "He has used this software before."
+  },
+  {
+    "verb": "wait",
+    "past": "waited",
+    "participle": "waited",
+    "translation": "esperar",
+    "example_A1": "I wait for the bus.",
+    "example_B1": "He waited an hour for his friend.",
+    "example_B2": "They have waited patiently for results."
+  },
+  {
+    "verb": "wake",
+    "past": "woke",
+    "participle": "woken",
+    "translation": "despertar",
+    "example_A1": "I wake up early.",
+    "example_B1": "She woke up late today.",
+    "example_B2": "He has woken up before sunrise many times."
+  },
+  {
+    "verb": "walk",
+    "past": "walked",
+    "participle": "walked",
+    "translation": "caminar",
+    "example_A1": "I walk to school.",
+    "example_B1": "She walked in the park yesterday.",
+    "example_B2": "They have walked for miles."
+  },
+  {
+    "verb": "want",
+    "past": "wanted",
+    "participle": "wanted",
+    "translation": "querer",
+    "example_A1": "I want ice cream.",
+    "example_B1": "He wanted to travel abroad.",
+    "example_B2": "She has always wanted to learn French."
+  },
+  {
+    "verb": "watch",
+    "past": "watched",
+    "participle": "watched",
+    "translation": "mirar / ver",
+    "example_A1": "I watch TV every night.",
+    "example_B1": "He watched a movie yesterday.",
+    "example_B2": "They have watched all the episodes."
+  },
+  {
+    "verb": "wear",
+    "past": "wore",
+    "participle": "worn",
+    "translation": "usar / llevar puesto",
+    "example_A1": "I wear a blue shirt.",
+    "example_B1": "She wore a beautiful dress.",
+    "example_B2": "He has worn that jacket for years."
+  },
+  {
+    "verb": "win",
+    "past": "won",
+    "participle": "won",
+    "translation": "ganar",
+    "example_A1": "I win the game.",
+    "example_B1": "He won the race last week.",
+    "example_B2": "They have won many awards."
+  },
+  {
+    "verb": "write",
+    "past": "wrote",
+    "participle": "written",
+    "translation": "escribir",
+    "example_A1": "I write a letter.",
+    "example_B1": "She wrote a story for school.",
+    "example_B2": "He has written three books."
+  },
+  {
+    "verb": "bake",
+    "past": "baked",
+    "participle": "baked",
+    "translation": "hornear",
+    "example_A1": "I bake cookies.",
+    "example_B1": "She baked a cake for the party.",
+    "example_B2": "They have baked bread since morning."
+  },
+  {
+    "verb": "climb",
+    "past": "climbed",
+    "participle": "climbed",
+    "translation": "escalar / subir",
+    "example_A1": "I climb the hill.",
+    "example_B1": "He climbed the mountain last summer.",
+    "example_B2": "They have climbed many peaks together."
+  },
+  {
+    "verb": "collect",
+    "past": "collected",
+    "participle": "collected",
+    "translation": "coleccionar / recoger",
+    "example_A1": "I collect stamps.",
+    "example_B1": "She collected donations for charity.",
+    "example_B2": "They have collected rare coins for years."
+  },
+  {
+    "verb": "decide",
+    "past": "decided",
+    "participle": "decided",
+    "translation": "decidir",
+    "example_A1": "I decide what to eat.",
+    "example_B1": "He decided to move to London.",
+    "example_B2": "They have decided to start a business."
+  },
+  {
+    "verb": "draw",
+    "past": "drew",
+    "participle": "drawn",
+    "translation": "dibujar",
+    "example_A1": "I draw a cat.",
+    "example_B1": "She drew a beautiful picture.",
+    "example_B2": "He has drawn many portraits."
+  },
+  {
+    "verb": "drive",
+    "past": "drove",
+    "participle": "driven",
+    "translation": "conducir",
+    "example_A1": "I drive to work.",
+    "example_B1": "He drove across the country.",
+    "example_B2": "They have driven for hours without rest."
+  },
+  {
+    "verb": "enter",
+    "past": "entered",
+    "participle": "entered",
+    "translation": "entrar",
+    "example_A1": "I enter the room.",
+    "example_B1": "He entered the competition.",
+    "example_B2": "They have entered new markets recently."
+  },
+  {
+    "verb": "fix",
+    "past": "fixed",
+    "participle": "fixed",
+    "translation": "arreglar / reparar",
+    "example_A1": "I fix the chair.",
+    "example_B1": "He fixed the broken phone.",
+    "example_B2": "They have fixed all the errors in the code."
+  },
+  {
+    "verb": "follow",
+    "past": "followed",
+    "participle": "followed",
+    "translation": "seguir",
+    "example_A1": "I follow my teacher’s instructions.",
+    "example_B1": "He followed the map to the park.",
+    "example_B2": "They have followed the rules carefully."
+  },
+  {
+    "verb": "happen",
+    "past": "happened",
+    "participle": "happened",
+    "translation": "ocurrir / suceder",
+    "example_A1": "What happened?",
+    "example_B1": "It happened suddenly.",
+    "example_B2": "Many changes have happened over the years."
+  },
+  {
+    "verb": "invite",
+    "past": "invited",
+    "participle": "invited",
+    "translation": "invitar",
+    "example_A1": "I invite my friends.",
+    "example_B1": "She invited him to the party.",
+    "example_B2": "They have invited us many times."
+  },
+  {
+    "verb": "join",
+    "past": "joined",
+    "participle": "joined",
+    "translation": "unirse / unificar",
+    "example_A1": "I join the club.",
+    "example_B1": "He joined the team last month.",
+    "example_B2": "They have joined efforts to solve the issue."
+  },
+  {
+    "verb": "laugh",
+    "past": "laughed",
+    "participle": "laughed",
+    "translation": "reír",
+    "example_A1": "I laugh with my friends.",
+    "example_B1": "He laughed at the joke.",
+    "example_B2": "They have laughed all evening."
+  },
+  {
+    "verb": "listen",
+    "past": "listened",
+    "participle": "listened",
+    "translation": "escuchar",
+    "example_A1": "I listen to music.",
+    "example_B1": "She listened carefully to the instructions.",
+    "example_B2": "He has listened to this song many times."
+  },
+  {
+    "verb": "move",
+    "past": "moved",
+    "participle": "moved",
+    "translation": "mover / mudarse",
+    "example_A1": "I move the chair.",
+    "example_B1": "He moved to a new city.",
+    "example_B2": "They have moved three times in two years."
+  },
+  {
+    "verb": "open",
+    "past": "opened",
+    "participle": "opened",
+    "translation": "abrir",
+    "example_A1": "I open the door.",
+    "example_B1": "He opened the window.",
+    "example_B2": "They have opened a new store downtown."
+  },
+  {
+    "verb": "plan",
+    "past": "planned",
+    "participle": "planned",
+    "translation": "planear",
+    "example_A1": "I plan my day.",
+    "example_B1": "She planned the event perfectly.",
+    "example_B2": "They have planned their trip carefully."
+  },
+  {
+    "verb": "rain",
+    "past": "rained",
+    "participle": "rained",
+    "translation": "llover",
+    "example_A1": "It rains a lot here.",
+    "example_B1": "It rained all night.",
+    "example_B2": "It has rained more than usual this month."
+  },
+    {
+        "verb": "repair",
+        "past": "repaired",
+        "participle": "repaired",
+        "translation": "reparar",
+        "example_A1": "I repair my bike.",
+        "example_B1": "He repaired the broken fence.",
+        "example_B2": "They have repaired the car engine."
+    },
+
+  {
+    "verb": "forgive",
+    "past": "forgave",
+    "participle": "forgiven",
+    "translation": "perdonar",
+    "example_A1": "I forgive you.",
+    "example_B1": "She forgave him for being late.",
+    "example_B2": "They have forgiven many mistakes over the years."
+  },
+  {
+    "verb": "freeze",
+    "past": "froze",
+    "participle": "frozen",
+    "translation": "congelar",
+    "example_A1": "Water freezes at zero degrees.",
+    "example_B1": "He froze when he saw the snake.",
+    "example_B2": "The lake has been frozen all winter."
+  },
+  {
+    "verb": "hang",
+    "past": "hung",
+    "participle": "hung",
+    "translation": "colgar",
+    "example_A1": "I hang my jacket on the hook.",
+    "example_B1": "She hung the picture on the wall.",
+    "example_B2": "They have hung decorations for the party."
+  },
+  {
+    "verb": "hide",
+    "past": "hid",
+    "participle": "hidden",
+    "translation": "esconder",
+    "example_A1": "I hide my toys under the bed.",
+    "example_B1": "He hid behind the tree.",
+    "example_B2": "The treasure has been hidden for centuries."
+  },
+  {
+    "verb": "hit",
+    "past": "hit",
+    "participle": "hit",
+    "translation": "golpear",
+    "example_A1": "Don’t hit your brother.",
+    "example_B1": "She hit the ball hard.",
+    "example_B2": "He has hit record sales this year."
+  },
+  {
+    "verb": "hold",
+    "past": "held",
+    "participle": "held",
+    "translation": "sostener",
+    "example_A1": "Hold my hand.",
+    "example_B1": "He held the baby gently.",
+    "example_B2": "They have held many meetings about this issue."
+  },
+  {
+    "verb": "hurt",
+    "past": "hurt",
+    "participle": "hurt",
+    "translation": "herir / doler",
+    "example_A1": "My arm hurts.",
+    "example_B1": "She hurt her knee while running.",
+    "example_B2": "He has hurt many people with his words."
+  },
+  {
+    "verb": "keep",
+    "past": "kept",
+    "participle": "kept",
+    "translation": "mantener / guardar",
+    "example_A1": "I keep my books on the shelf.",
+    "example_B1": "She kept the secret for years.",
+    "example_B2": "They have kept their promises faithfully."
+  },
+  {
+    "verb": "lay",
+    "past": "laid",
+    "participle": "laid",
+    "translation": "colocar / poner",
+    "example_A1": "Lay the keys on the table.",
+    "example_B1": "He laid the baby in the crib.",
+    "example_B2": "The foundation has been laid for the project."
+  },
+  {
+    "verb": "lead",
+    "past": "led",
+    "participle": "led",
+    "translation": "liderar / guiar",
+    "example_A1": "She leads the group.",
+    "example_B1": "He led the team to victory.",
+    "example_B2": "They have led several successful projects."
+  },
+  {
+    "verb": "lean",
+    "past": "leant",
+    "participle": "leant",
+    "translation": "inclinarse / apoyarse",
+    "example_A1": "Don’t lean on the wall.",
+    "example_B1": "He leant against the car.",
+    "example_B2": "They have leant towards a new policy direction."
+  },
+  {
+    "verb": "leap",
+    "past": "leapt",
+    "participle": "leapt",
+    "translation": "saltar / brincar",
+    "example_A1": "The cat leaps over the fence.",
+    "example_B1": "He leapt across the puddle.",
+    "example_B2": "They have leapt into a new opportunity."
+  },
+  {
+    "verb": "lend",
+    "past": "lent",
+    "participle": "lent",
+    "translation": "prestar",
+    "example_A1": "Can you lend me a pen?",
+    "example_B1": "She lent me some money last week.",
+    "example_B2": "He has lent support to many organizations."
+  },
+  {
+    "verb": "let",
+    "past": "let",
+    "participle": "let",
+    "translation": "permitir / dejar",
+    "example_A1": "Let me help you.",
+    "example_B1": "He let the children play outside.",
+    "example_B2": "They have let things get out of hand."
+  },
+  {
+    "verb": "lie",
+    "past": "lay",
+    "participle": "lain",
+    "translation": "tumbarse / recostarse",
+    "example_A1": "I lie on the bed.",
+    "example_B1": "He lay down after work.",
+    "example_B2": "She has lain there for hours."
+  },
+  {
+    "verb": "light",
+    "past": "lit",
+    "participle": "lit",
+    "translation": "encender / iluminar",
+    "example_A1": "Light the candle.",
+    "example_B1": "He lit the fire quickly.",
+    "example_B2": "The city has been lit beautifully for the festival."
+  },
+  {
+    "verb": "lose",
+    "past": "lost",
+    "participle": "lost",
+    "translation": "perder",
+    "example_A1": "Don’t lose your keys.",
+    "example_B1": "She lost her phone yesterday.",
+    "example_B2": "They have lost all hope."
+  },
+  {
+    "verb": "mean",
+    "past": "meant",
+    "participle": "meant",
+    "translation": "significar / querer decir",
+    "example_A1": "What does this word mean?",
+    "example_B1": "He meant to call you.",
+    "example_B2": "That has always meant a lot to them."
+  },
+  {
+    "verb": "meet",
+    "past": "met",
+    "participle": "met",
+    "translation": "conocer / encontrarse",
+    "example_A1": "I meet new people at school.",
+    "example_B1": "She met him in Paris.",
+    "example_B2": "They have met several times before."
+  },
+  {
+    "verb": "pay",
+    "past": "paid",
+    "participle": "paid",
+    "translation": "pagar",
+    "example_A1": "I pay for my lunch.",
+    "example_B1": "He paid the bill yesterday.",
+    "example_B2": "She has paid her dues in full."
+  },
+  {
+    "verb": "put",
+    "past": "put",
+    "participle": "put",
+    "translation": "poner / colocar",
+    "example_A1": "Put your bag on the chair.",
+    "example_B1": "He put the keys on the table.",
+    "example_B2": "They have put their trust in us."
+  },
+  {
+    "verb": "read",
+    "past": "read",
+    "participle": "read",
+    "translation": "leer",
+    "example_A1": "I read a book.",
+    "example_B1": "She read three articles this morning.",
+    "example_B2": "He has read every book by that author."
+  },
+  {
+    "verb": "ride",
+    "past": "rode",
+    "participle": "ridden",
+    "translation": "montar / conducir",
+    "example_A1": "I ride my bike to school.",
+    "example_B1": "He rode a horse on the farm.",
+    "example_B2": "She has ridden across the desert."
+  },
+  {
+    "verb": "ring",
+    "past": "rang",
+    "participle": "rung",
+    "translation": "sonar / llamar",
+    "example_A1": "The phone rings every morning.",
+    "example_B1": "He rang the bell twice.",
+    "example_B2": "They have rung all the neighbors already."
+  },
+  {
+    "verb": "rise",
+    "past": "rose",
+    "participle": "risen",
+    "translation": "elevarse / levantarse",
+    "example_A1": "The sun rises in the east.",
+    "example_B1": "He rose from his chair.",
+    "example_B2": "Prices have risen again this year."
+  },
+  {
+    "verb": "run",
+    "past": "ran",
+    "participle": "run",
+    "translation": "correr",
+    "example_A1": "I run every morning.",
+    "example_B1": "She ran a marathon last year.",
+    "example_B2": "They have run this company since 2010."
+  },
+  {
+    "verb": "say",
+    "past": "said",
+    "participle": "said",
+    "translation": "decir",
+    "example_A1": "I say hello to everyone.",
+    "example_B1": "He said he was tired.",
+    "example_B2": "She has said this many times before."
+  },
+  {
+    "verb": "see",
+    "past": "saw",
+    "participle": "seen",
+    "translation": "ver",
+    "example_A1": "I see a bird.",
+    "example_B1": "She saw a movie last night.",
+    "example_B2": "They have seen the results already."
+  },
+  {
+    "verb": "sell",
+    "past": "sold",
+    "participle": "sold",
+    "translation": "vender",
+    "example_A1": "I sell fruits.",
+    "example_B1": "He sold his car yesterday.",
+    "example_B2": "They have sold their house recently."
+  },
+  {
+    "verb": "send",
+    "past": "sent",
+    "participle": "sent",
+    "translation": "enviar",
+    "example_A1": "I send an email.",
+    "example_B1": "She sent the package last week.",
+    "example_B2": "They have sent the documents already."
+  },
+    {
+        "verb": "shine",
+        "past": "shone",
+        "participle": "shone",
+        "translation": "brillar",
+        "example_A1": "The sun shines.",
+        "example_B1": "The stars shone last night.",
+        "example_B2": "The light has shone through the window."
+    },
+    {
+        "verb": "shoot",
+        "past": "shot",
+        "participle": "shot",
+        "translation": "disparar / filmar",
+        "example_A1": "He shoots the ball.",
+        "example_B1": "They shot a movie in New York.",
+        "example_B2": "She has shot many photos."
+    },
+    {
+        "verb": "show",
+        "past": "showed",
+        "participle": "shown",
+        "translation": "mostrar",
+        "example_A1": "I show my work.",
+        "example_B1": "He showed me his new car.",
+        "example_B2": "They have shown great progress."
+    },
+    {
+        "verb": "shut",
+        "past": "shut",
+        "participle": "shut",
+        "translation": "cerrar",
+        "example_A1": "Please shut the door.",
+        "example_B1": "He shut the windows before leaving.",
+        "example_B2": "They have shut the shop for renovation."
+    },
+    {
+        "verb": "sing",
+        "past": "sang",
+        "participle": "sung",
+        "translation": "cantar",
+        "example_A1": "I sing in the shower.",
+        "example_B1": "She sang a beautiful song.",
+        "example_B2": "They have sung together for years."
+    },
+    {
+        "verb": "sit",
+        "past": "sat",
+        "participle": "sat",
+        "translation": "sentarse",
+        "example_A1": "I sit on the chair.",
+        "example_B1": "He sat by the window.",
+        "example_B2": "She has sat there for hours."
+    },
+    {
+        "verb": "sleep",
+        "past": "slept",
+        "participle": "slept",
+        "translation": "dormir",
+        "example_A1": "I sleep eight hours.",
+        "example_B1": "He slept well last night.",
+        "example_B2": "They have slept in that hotel before."
+    },
+    {
+        "verb": "speak",
+        "past": "spoke",
+        "participle": "spoken",
+        "translation": "hablar",
+        "example_A1": "I speak English.",
+        "example_B1": "She spoke to her boss.",
+        "example_B2": "He has spoken at many events."
+    },
+    {
+        "verb": "spend",
+        "past": "spent",
+        "participle": "spent",
+        "translation": "gastar / pasar (tiempo)",
+        "example_A1": "I spend time with family.",
+        "example_B1": "He spent money on clothes.",
+        "example_B2": "They have spent the weekend at the beach."
+    },
+    {
+        "verb": "stand",
+        "past": "stood",
+        "participle": "stood",
+        "translation": "estar de pie",
+        "example_A1": "I stand near the door.",
+        "example_B1": "He stood in line.",
+        "example_B2": "They have stood together through tough times."
+    },
+    {   
+        "verb": "start",
+        "past": "started",
+        "participle": "started",
+        "translation": "empezar",
+        "example_A1": "We start school at 8 a.m.",
+        "example_B1": "He started learning English.",
+        "example_B2": "She has started her own business."
+    },
+    {
+        "verb": "stay",
+        "past": "stayed",
+        "participle": "stayed",
+        "translation": "quedarse / permanecer",
+        "example_A1": "I stay at home.",
+        "example_B1": "He stayed in Paris.",
+        "example_B2": "They have stayed friends since college."
+    },  
+    {
+        "verb": "steal",
+        "past": "stole",
+        "participle": "stolen",
+        "translation": "robar",
+        "example_A1": "Don’t steal things.",
+        "example_B1": "Someone stole his bike.",
+        "example_B2": "They have stolen many ideas."
+    },
+    {
+        "verb": "study",
+        "past": "studied",
+        "participle": "studied",
+        "translation": "estudiar",
+        "example_A1": "I study English.",
+        "example_B1": "She studied for the exam.",
+        "example_B2": "He has studied abroad."
+    },
+    {
+        "verb": "swim",
+        "past": "swam",
+        "participle": "swum",
+        "translation": "nadar",
+        "example_A1": "I swim in the pool.",
+        "example_B1": "He swam across the river.",
+        "example_B2": "They have swum in many lakes."
+    },
+    {
+        "verb": "take",
+        "past": "took",
+        "participle": "taken",
+        "translation": "tomar / llevar",
+        "example_A1": "I take a bus.",
+        "example_B1": "She took a picture.",
+        "example_B2": "He has taken responsibility."
+    },
+    {
+        "verb": "teach",
+        "past": "taught",
+        "participle": "taught",
+        "translation": "enseñar",
+        "example_A1": "I teach English.",
+        "example_B1": "She taught me to dance.",
+        "example_B2": "He has taught for years."
+    },
+    {
+        "verb": "tell",
+        "past": "told",
+        "participle": "told",
+        "translation": "decir / contar",
+        "example_A1": "I tell the truth.",
+        "example_B1": "She told me a secret.",
+        "example_B2": "They have told us everything."
+    },
+    {
+        "verb": "think",
+        "past": "thought",
+        "participle": "thought",
+        "translation": "pensar",
+        "example_A1": "I think it’s good.",
+        "example_B1": "He thought about moving.",
+        "example_B2": "We have thought carefully."
+    },
+    {
+        "verb": "throw",
+        "past": "threw",
+        "participle": "thrown",
+        "translation": "lanzar / tirar",
+        "example_A1": "I throw the ball.",
+        "example_B1": "He threw the keys.",
+        "example_B2": "They have thrown away papers."
+    },
+    {
+        "verb": "understand",
+        "past": "understood",
+        "participle": "understood",
+        "translation": "entender / comprender",
+        "example_A1": "I understand you.",
+        "example_B1": "He understood the lesson.",
+        "example_B2": "They have understood the problem."
+    },
+    
+  {
+    "verb": "translate",
+    "past": "translated",
+    "participle": "translated",
+    "translation": "traducir",
+    "example_A1": "I translate words into Spanish.",
+    "example_B1": "She translated the document yesterday.",
+    "example_B2": "They have translated several books from English."
+  },
+  {
+    "verb": "travel",
+    "past": "traveled",
+    "participle": "traveled",
+    "translation": "viajar",
+    "example_A1": "I travel by bus.",
+    "example_B1": "He traveled to France last summer.",
+    "example_B2": "They have traveled around the world together."
+  },
+  {
+    "verb": "try",
+    "past": "tried",
+    "participle": "tried",
+    "translation": "intentar / probar",
+    "example_A1": "I try new food.",
+    "example_B1": "She tried to fix the computer.",
+    "example_B2": "He has tried many times but failed."
+  },
+  {
+    "verb": "turn",
+    "past": "turned",
+    "participle": "turned",
+    "translation": "girar / voltear",
+    "example_A1": "Turn left at the corner.",
+    "example_B1": "He turned the page slowly.",
+    "example_B2": "They have turned their lives around."
+  },
+  {
+    "verb": "understand",
+    "past": "understood",
+    "participle": "understood",
+    "translation": "entender / comprender",
+    "example_A1": "I understand the question.",
+    "example_B1": "She understood the lesson well.",
+    "example_B2": "They have understood the importance of teamwork."
+  },
+  {
+    "verb": "use",
+    "past": "used",
+    "participle": "used",
+    "translation": "usar",
+    "example_A1": "I use my phone every day.",
+    "example_B1": "He used the old laptop for work.",
+    "example_B2": "They have used all available resources."
+  },
+  {
+    "verb": "wait",
+    "past": "waited",
+    "participle": "waited",
+    "translation": "esperar",
+    "example_A1": "I wait for the bus.",
+    "example_B1": "She waited for an hour.",
+    "example_B2": "They have waited too long for an answer."
+  },
+  {
+    "verb": "walk",
+    "past": "walked",
+    "participle": "walked",
+    "translation": "caminar",
+    "example_A1": "I walk to school.",
+    "example_B1": "He walked home last night.",
+    "example_B2": "They have walked this path many times."
+  },
+  {
+    "verb": "want",
+    "past": "wanted",
+    "participle": "wanted",
+    "translation": "querer / desear",
+    "example_A1": "I want an apple.",
+    "example_B1": "She wanted to go out.",
+    "example_B2": "They have always wanted a better life."
+  },
+  {
+    "verb": "wash",
+    "past": "washed",
+    "participle": "washed",
+    "translation": "lavar",
+    "example_A1": "I wash my hands.",
+    "example_B1": "He washed his car yesterday.",
+    "example_B2": "They have washed all the clothes already."
+  },
+  {
+    "verb": "watch",
+    "past": "watched",
+    "participle": "watched",
+    "translation": "ver / observar",
+    "example_A1": "I watch TV.",
+    "example_B1": "She watched a movie last night.",
+    "example_B2": "They have watched the sunset together."
+  },
+  {
+    "verb": "wear",
+    "past": "wore",
+    "participle": "worn",
+    "translation": "usar / vestir",
+    "example_A1": "I wear a blue shirt.",
+    "example_B1": "He wore a suit to the meeting.",
+    "example_B2": "She has worn that dress before."
+  },
+  {
+    "verb": "win",
+    "past": "won",
+    "participle": "won",
+    "translation": "ganar",
+    "example_A1": "I win the game.",
+    "example_B1": "He won a prize last year.",
+    "example_B2": "They have won many competitions."
+  },
+  {
+    "verb": "work",
+    "past": "worked",
+    "participle": "worked",
+    "translation": "trabajar",
+    "example_A1": "I work every day.",
+    "example_B1": "She worked at a hotel before.",
+    "example_B2": "They have worked together for years."
+  },
+  {
+    "verb": "worry",
+    "past": "worried",
+    "participle": "worried",
+    "translation": "preocuparse",
+    "example_A1": "Don’t worry.",
+    "example_B1": "He worried about his exam.",
+    "example_B2": "She has worried too much lately."
+  },
+  {
+    "verb": "write",
+    "past": "wrote",
+    "participle": "written",
+    "translation": "escribir",
+    "example_A1": "I write a letter.",
+    "example_B1": "She wrote a book last year.",
+    "example_B2": "They have written many articles."
+  },
+  {
+    "verb": "agree",
+    "past": "agreed",
+    "participle": "agreed",
+    "translation": "estar de acuerdo",
+    "example_A1": "I agree with you.",
+    "example_B1": "They agreed to meet later.",
+    "example_B2": "We have always agreed on that point."
+  },
+  {
+    "verb": "arrive",
+    "past": "arrived",
+    "participle": "arrived",
+    "translation": "llegar",
+    "example_A1": "I arrive at school at 8.",
+    "example_B1": "He arrived late to the meeting.",
+    "example_B2": "They have arrived at a conclusion."
+  },
+  {
+    "verb": "believe",
+    "past": "believed",
+    "participle": "believed",
+    "translation": "creer",
+    "example_A1": "I believe in you.",
+    "example_B1": "She believed the story.",
+    "example_B2": "He has always believed in hard work."
+  },
+  {
+    "verb": "borrow",
+    "past": "borrowed",
+    "participle": "borrowed",
+    "translation": "pedir prestado",
+    "example_A1": "I borrow a pencil.",
+    "example_B1": "She borrowed money from her friend.",
+    "example_B2": "He has borrowed that book many times."
+  },
+  {
+    "verb": "clean",
+    "past": "cleaned",
+    "participle": "cleaned",
+    "translation": "limpiar",
+    "example_A1": "I clean my room.",
+    "example_B1": "He cleaned the kitchen yesterday.",
+    "example_B2": "They have cleaned the whole house."
+  },
+  {
+    "verb": "close",
+    "past": "closed",
+    "participle": "closed",
+    "translation": "cerrar",
+    "example_A1": "Close the door, please.",
+    "example_B1": "She closed her eyes.",
+    "example_B2": "The store has closed permanently."
+  },
+  {
+    "verb": "collect",
+    "past": "collected",
+    "participle": "collected",
+    "translation": "coleccionar / recoger",
+    "example_A1": "I collect stamps.",
+    "example_B1": "He collected all the papers.",
+    "example_B2": "They have collected enough evidence."
+  },
+  {
+    "verb": "cook",
+    "past": "cooked",
+    "participle": "cooked",
+    "translation": "cocinar",
+    "example_A1": "I cook rice.",
+    "example_B1": "She cooked dinner last night.",
+    "example_B2": "He has cooked for many guests."
+  },
+  {
+    "verb": "count",
+    "past": "counted",
+    "participle": "counted",
+    "translation": "contar",
+    "example_A1": "I count from one to ten.",
+    "example_B1": "She counted the money carefully.",
+    "example_B2": "They have counted all the votes."
+  },
+  {
+    "verb": "dance",
+    "past": "danced",
+    "participle": "danced",
+    "translation": "bailar",
+    "example_A1": "I dance with my friends.",
+    "example_B1": "He danced at the party.",
+    "example_B2": "They have danced together for years."
+  },
+  {
+    "verb": "decide",
+    "past": "decided",
+    "participle": "decided",
+    "translation": "decidir",
+    "example_A1": "I decide what to eat.",
+    "example_B1": "He decided to stay home.",
+    "example_B2": "They have decided to move abroad."
+  },
+  {
+    "verb": "help",
+    "past": "helped",
+    "participle": "helped",
+    "translation": "ayudar",
+    "example_A1": "I help my mom.",
+    "example_B1": "She helped him finish the work.",
+    "example_B2": "They have helped many people in need."
+  },
+  {
+    "verb": "hope",
+    "past": "hoped",
+    "participle": "hoped",
+    "translation": "esperar / tener esperanza",
+    "example_A1": "I hope you’re fine.",
+    "example_B1": "She hoped to see him again.",
+    "example_B2": "They have always hoped for peace."
+  },
+  {
+    "verb": "imagine",
+    "past": "imagined",
+    "participle": "imagined",
+    "translation": "imaginar",
+    "example_A1": "I imagine a big house.",
+    "example_B1": "He imagined a better world.",
+    "example_B2": "They have imagined countless scenarios."
+  },
+  {
+    "verb": "invite",
+    "past": "invited",
+    "participle": "invited",
+    "translation": "invitar",
+    "example_A1": "I invite my friends.",
+    "example_B1": "She invited everyone to her birthday.",
+    "example_B2": "They have invited the whole team."
+  },
+  {
+    "verb": "learn",
+    "past": "learned",
+    "participle": "learned",
+    "translation": "aprender",
+    "example_A1": "I learn English.",
+    "example_B1": "He learned to drive last year.",
+    "example_B2": "They have learned many new skills."
+  },
+  {
+    "verb": "live",
+    "past": "lived",
+    "participle": "lived",
+    "translation": "vivir",
+    "example_A1": "I live in Paris.",
+    "example_B1": "She lived in Mexico before.",
+    "example_B2": "They have lived here for ten years."
+  },
+  {
+    "verb": "love",
+    "past": "loved",
+    "participle": "loved",
+    "translation": "amar",
+    "example_A1": "I love my family.",
+    "example_B1": "He loved that movie.",
+    "example_B2": "They have always loved each other."
+  },
+  {
+    "verb": "need",
+    "past": "needed",
+    "participle": "needed",
+    "translation": "necesitar",
+    "example_A1": "I need water.",
+    "example_B1": "She needed help with her homework.",
+    "example_B2": "They have needed support for a long time."
+  },
+  {
+    "verb": "open",
+    "past": "opened",
+    "participle": "opened",
+    "translation": "abrir",
+    "example_A1": "Open the window, please.",
+    "example_B1": "He opened the door slowly.",
+    "example_B2": "They have opened three new stores."
+  },
+  {
+    "verb": "rain",
+    "past": "rained",
+    "participle": "rained",
+    "translation": "llover",
+    "example_A1": "It rains every day here.",
+    "example_B1": "It rained last night.",
+    "example_B2": "It has rained all week."
+  },
+  {
+    "verb": "remember",
+    "past": "remembered",
+    "participle": "remembered",
+    "translation": "recordar",
+    "example_A1": "I remember my teacher.",
+    "example_B1": "She remembered his name.",
+    "example_B2": "He has remembered every detail."
+  },
+  {
+    "verb": "smile",
+    "past": "smiled",
+    "participle": "smiled",
+    "translation": "sonreír",
+    "example_A1": "I smile every morning.",
+    "example_B1": "She smiled at him.",
+    "example_B2": "They have smiled through hard times."
+  },
+  {
+    "verb": "start",
+    "past": "started",
+    "participle": "started",
+    "translation": "empezar / iniciar",
+    "example_A1": "I start work at 8.",
+    "example_B1": "He started a new job.",
+    "example_B2": "They have started building a new school."
+  },
+  {
+    "verb": "study",
+    "past": "studied",
+    "participle": "studied",
+    "translation": "estudiar",
+    "example_A1": "I study English.",
+    "example_B1": "She studied biology in college.",
+    "example_B2": "They have studied hard for the exam."
+  }
+]
+
+
+
+
+
